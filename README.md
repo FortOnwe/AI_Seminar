@@ -1,7 +1,9 @@
-# Predictive Modeling - Rain Prediction in Australia
+# Artificial Intelligence 
+
+
 
 ### Problem Statement: 
-A predictive model that works to forecast whether or not it will rain tomorrow in Australia.
+A predictive model that works to forecast whether or not it will rain tomorrow in Australia, and by extension recommends if people should take an umbrella the next day.
 
 ### Data Source:
 The dataset is taken from Kaggle and contains about 10 years of daily weather observations from many locations across Australia.

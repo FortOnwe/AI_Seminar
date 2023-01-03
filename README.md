@@ -1,7 +1,5 @@
 # Predictive Modeling - Rain Prediction in Australia
 
-<img src="https://editor.analyticsvidhya.com/uploads/35913Untitled%20design.png">
-
 ### Problem Statement: 
 A predictive model that works to forecast whether or not it will rain tomorrow in Australia.
 

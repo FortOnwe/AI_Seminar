@@ -1,4 +1,6 @@
-# Artificial Intelligence 
+# COSC 423  (Artificial Intelligence and Applications)
+# Group 22
+# Computer Science (Group B)
 
 
 
